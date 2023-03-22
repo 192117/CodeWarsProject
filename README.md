@@ -17,14 +17,14 @@
 [Решение с использованием Алгортима Х Кнута](https://github.com/192117/CodeWarsProject/blob/master/sudokuDance_best.py) и 
 [еще одно](https://github.com/192117/CodeWarsProject/blob/master/sudokuDance_OOP_best.py).
 
-7. [: ]()
-[Решение]()
-8. [: ]()
-[Решение]()
-9. [: ]()
-[Решение]()
-10. [: ]()
-[Решение]()
+7. [Counting sheep: ](https://www.codewars.com/kata/54edbc7200b811e956000556/train/python)
+[Решение](https://github.com/192117/CodeWarsProject/blob/master/Counting_sheep.py)
+8. [Highest and Lowest: ](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/python)
+[Решение](https://github.com/192117/CodeWarsProject/blob/master/Highest_Lowest.py)
+9. [Get the Middle Character: ](https://www.codewars.com/kata/56747fd5cb988479af000028/train/python)
+[Решение](https://github.com/192117/CodeWarsProject/blob/master/Get_Middle.py)
+10. [Abbreviate a Two Word Name: ](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python)
+[Решение](https://github.com/192117/CodeWarsProject/blob/master/Abbreviate.py)
 11. [: ]()
 [Решение]()
 12. [: ]()
